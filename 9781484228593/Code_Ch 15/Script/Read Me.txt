@@ -1,0 +1,6 @@
+The following points are considered to start the project:
+
+1- Run the 'School' Script of SQL in MS SQL Server.
+2- Open MS SQL Server as "Run as Administrator".
+3- You can change the connection string in App.config (VS Project) according to you.
+4- Project is ready to go.

@@ -1,0 +1,6 @@
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 2\Code\TempratureConvertor\TempratureConvertor\bin\Debug\TempratureConvertor.exe.config
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 2\Code\TempratureConvertor\TempratureConvertor\bin\Debug\TempratureConvertor.exe
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 2\Code\TempratureConvertor\TempratureConvertor\bin\Debug\TempratureConvertor.pdb
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 2\Code\TempratureConvertor\TempratureConvertor\obj\Debug\TempratureConvertor.csprojResolveAssemblyReference.cache
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 2\Code\TempratureConvertor\TempratureConvertor\obj\Debug\TempratureConvertor.exe
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 2\Code\TempratureConvertor\TempratureConvertor\obj\Debug\TempratureConvertor.pdb

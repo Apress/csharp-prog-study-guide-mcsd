@@ -1,0 +1,12 @@
+c:\users\hamza ali\documents\visual studio 2015\Projects\Chapter_6_Code_Challenges\Chapter_6_Code_Challenges\bin\Debug\Chapter_6_Code_Challenges.exe.config
+c:\users\hamza ali\documents\visual studio 2015\Projects\Chapter_6_Code_Challenges\Chapter_6_Code_Challenges\obj\Debug\Chapter_6_Code_Challenges.csprojResolveAssemblyReference.cache
+c:\users\hamza ali\documents\visual studio 2015\Projects\Chapter_6_Code_Challenges\Chapter_6_Code_Challenges\bin\Debug\Chapter_6_Code_Challenges.exe
+c:\users\hamza ali\documents\visual studio 2015\Projects\Chapter_6_Code_Challenges\Chapter_6_Code_Challenges\bin\Debug\Chapter_6_Code_Challenges.pdb
+c:\users\hamza ali\documents\visual studio 2015\Projects\Chapter_6_Code_Challenges\Chapter_6_Code_Challenges\obj\Debug\Chapter_6_Code_Challenges.exe
+c:\users\hamza ali\documents\visual studio 2015\Projects\Chapter_6_Code_Challenges\Chapter_6_Code_Challenges\obj\Debug\Chapter_6_Code_Challenges.pdb
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 6\Code\Chapter_6_Code_Challenges\Chapter_6_Code_Challenges\bin\Debug\Chapter_6_Code_Challenges.exe.config
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 6\Code\Chapter_6_Code_Challenges\Chapter_6_Code_Challenges\obj\Debug\Chapter_6_Code_Challenges.exe
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 6\Code\Chapter_6_Code_Challenges\Chapter_6_Code_Challenges\obj\Debug\Chapter_6_Code_Challenges.pdb
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 6\Code\Chapter_6_Code_Challenges\Chapter_6_Code_Challenges\bin\Debug\Chapter_6_Code_Challenges.exe
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 6\Code\Chapter_6_Code_Challenges\Chapter_6_Code_Challenges\bin\Debug\Chapter_6_Code_Challenges.pdb
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 6\Code\Chapter_6_Code_Challenges\Chapter_6_Code_Challenges\obj\Debug\Chapter_6_Code_Challenges.csprojResolveAssemblyReference.cache

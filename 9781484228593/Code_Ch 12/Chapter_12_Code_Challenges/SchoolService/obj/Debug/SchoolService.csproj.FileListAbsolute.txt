@@ -1,0 +1,19 @@
+c:\users\hamza ali\documents\visual studio 2015\Projects\Chapter_12_Code_Challenges\SchoolService\bin\SchoolService.dll.config
+c:\users\hamza ali\documents\visual studio 2015\Projects\Chapter_12_Code_Challenges\SchoolService\bin\SchoolService.dll
+c:\users\hamza ali\documents\visual studio 2015\Projects\Chapter_12_Code_Challenges\SchoolService\bin\SchoolService.pdb
+c:\users\hamza ali\documents\visual studio 2015\Projects\Chapter_12_Code_Challenges\SchoolService\bin\EntityFramework.dll
+c:\users\hamza ali\documents\visual studio 2015\Projects\Chapter_12_Code_Challenges\SchoolService\bin\EntityFramework.SqlServer.dll
+c:\users\hamza ali\documents\visual studio 2015\Projects\Chapter_12_Code_Challenges\SchoolService\bin\EntityFramework.xml
+c:\users\hamza ali\documents\visual studio 2015\Projects\Chapter_12_Code_Challenges\SchoolService\bin\EntityFramework.SqlServer.xml
+c:\users\hamza ali\documents\visual studio 2015\Projects\Chapter_12_Code_Challenges\SchoolService\obj\Debug\SchoolService.dll
+c:\users\hamza ali\documents\visual studio 2015\Projects\Chapter_12_Code_Challenges\SchoolService\obj\Debug\SchoolService.pdb
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 12\Code\Chapter_12_Code_Challenges\SchoolService\bin\SchoolService.dll.config
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 12\Code\Chapter_12_Code_Challenges\SchoolService\bin\SchoolService.dll
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 12\Code\Chapter_12_Code_Challenges\SchoolService\bin\SchoolService.pdb
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 12\Code\Chapter_12_Code_Challenges\SchoolService\bin\EntityFramework.dll
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 12\Code\Chapter_12_Code_Challenges\SchoolService\bin\EntityFramework.SqlServer.dll
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 12\Code\Chapter_12_Code_Challenges\SchoolService\bin\EntityFramework.xml
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 12\Code\Chapter_12_Code_Challenges\SchoolService\bin\EntityFramework.SqlServer.xml
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 12\Code\Chapter_12_Code_Challenges\SchoolService\obj\Debug\SchoolService.csprojResolveAssemblyReference.cache
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 12\Code\Chapter_12_Code_Challenges\SchoolService\obj\Debug\SchoolService.dll
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 12\Code\Chapter_12_Code_Challenges\SchoolService\obj\Debug\SchoolService.pdb

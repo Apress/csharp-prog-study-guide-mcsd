@@ -1,0 +1,9 @@
+D:\Large Northwind\Chapters\Exercises\Ch-1\Challenge1\Challenge1\bin\Debug\Challenge1.exe.config
+D:\Large Northwind\Chapters\Exercises\Ch-1\Challenge1\Challenge1\bin\Debug\Challenge1.exe
+D:\Large Northwind\Chapters\Exercises\Ch-1\Challenge1\Challenge1\bin\Debug\Challenge1.pdb
+D:\Large Northwind\Chapters\Exercises\Ch-1\Challenge1\Challenge1\obj\Debug\Challenge1.csprojResolveAssemblyReference.cache
+D:\Large Northwind\Chapters\Exercises\Ch-1\Challenge1\Challenge1\obj\Debug\Challenge1.exe
+D:\Large Northwind\Chapters\Exercises\Ch-1\Challenge1\Challenge1\obj\Debug\Challenge1.pdb
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 1\Code\Challenge1\Challenge1\bin\Debug\Challenge1.exe.config
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 1\Code\Challenge1\Challenge1\obj\Debug\Challenge1.exe
+D:\Large Northwind\Chapters\Images and Code of All Chapters\Images and Code of All Chapters\Chapter 1\Code\Challenge1\Challenge1\obj\Debug\Challenge1.pdb

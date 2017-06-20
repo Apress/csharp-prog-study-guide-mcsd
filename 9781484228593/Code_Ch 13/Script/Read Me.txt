@@ -1,0 +1,7 @@
+The following points are considered to start the project:
+
+1- Run the 'DBHash' Script of SQL in MS SQL Server.
+2- Open MS SQL Server as "Run as Administrator".
+3 - Also Change the FILENAME variable value path according to your system in DBHash.sql
+4- You can change the connection string in App.config (VS Project) according to you.
+5- Project is ready to go.
